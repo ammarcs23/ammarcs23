@@ -49,7 +49,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+ [ <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />](https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi)
 </p>
 
 > ⚠️ **If streak shows 0:** Try opening this link directly: [streak-stats.demolab.com](https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight) — sometimes it takes a few minutes to sync after commits.
