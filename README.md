@@ -41,7 +41,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Ammar's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ammarcs23&theme=tokyonight" alt="Ammar's GitHub Stats Backup" />
 </p>
 
 ---
@@ -51,6 +53,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" alt="GitHub Streak" />
 </p>
+
+> ⚠️ **If streak shows 0:** Try opening this link directly: [streak-stats.demolab.com](https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight) — sometimes it takes a few minutes to sync after commits.
 
 ---
 
