@@ -1,64 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ammar Jahangir</h1>
-<h3 align="center">🎓 BS Computer Science Student | 💻 Web Dev & AI Enthusiast | 🚀 Building Real-World Projects</h3>
+<h1 align="center">Hi 👋 I'm Ammar Jahangir</h1>
 
-<br/>
+## 🎓 BS Computer Science Student | AI & Web Dev Enthusiast
 
----
+I'm a Computer Science undergraduate passionate about building real-world software solutions — from systems programming to machine learning. Always learning, always building.
 
-## 🧠 About Me
-
-- 🎯 Focused on **Software Development, AI & System Design**
-- 🛠️ Love building **real-world projects**
-- 📚 Strong in: **C++, SQL, OOP**
-- 🤖 Interested in: **Machine Learning & Deep Learning**
-- 📊 Exploring: **Data Analytics & Feature Engineering**
-- 📫 Reach me at: **ammarmalik5535@gmail.com**
+- 🌍 Based in **Pakistan**
+- ✉️ Contact me at [ammarmalik5535@gmail.com](mailto:ammarmalik5535@gmail.com)
+- 🧠 Currently learning **Advanced C++, Machine Learning & Data Science**
+- 👥 Looking to collaborate on **AI & Web Projects**
+- 💬 Ask me about: **C++, OOP, SQL & System Design**
+- 🤫 Fun fact: I debug code at 3AM and somehow it works!
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Skills
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Ammar's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ammarcs23&theme=tokyonight" alt="Ammar's GitHub Stats Backup" />
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="36" height="36"/></a>
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="36" height="36"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36"/></a>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+### 🔗 Connect with Me
+
+<p align="left">
+<a href="https://github.com/ammarcs23" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/ammar-cs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="mailto:ammarmalik5535@gmail.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Ammar's GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" alt="GitHub Streak" />
 </p>
 
-> ⚠️ **If streak shows 0:** Try opening this link directly: [streak-stats.demolab.com](https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight) — sometimes it takes a few minutes to sync after commits.
-
 ---
 
-## 📌 Top Languages
+### 📌 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcs23&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
@@ -66,7 +68,7 @@
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -74,22 +76,6 @@
 | 📊 Student Management System | Student data & grade tracking | C++, SQL |
 | 🤖 ML Projects | Machine Learning experiments | Python *(Coming Soon)* |
 | 🌐 Web Projects | Frontend & full-stack apps | HTML, CSS, JS |
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:ammarmalik5535@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ammar-cs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ammarcs23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
