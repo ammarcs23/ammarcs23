@@ -1,12 +1,13 @@
-# Hi 👋, I'm Ammar Jahangir
+Hi 👋, I'm Ammar Jahangir
 
-🎓 BS Computer Science Student  
-💻 Passionate about Programming, Web Development & AI  
-🚀 Currently learning: Advanced C++, Machine Learning & Data Science  
+🎓 BS Computer Science Student
+💻 Passionate about Programming, Web Development & AI
+🚀 Currently learning: Advanced C++, Machine Learning & Data Science
 
 ---
 
-## 🧠 About Me
+🧠 About Me
+
 - 🎯 Focused on Software Development, AI & System Design
 - 🛠️ Love building real-world projects
 - 📚 Strong in: C++, SQL, OOP
@@ -15,32 +16,37 @@
 
 ---
 
-## ⚙️ Tech Stack
-- 💻 Languages: C++, Python, JavaScript  
-- 🌐 Web: HTML, CSS, JavaScript  
-- 🗄️ Database: MySQL  
-- 🤖 AI/ML: Machine Learning, Deep Learning  
-- 📊 Data: Data Analytics, Feature Engineering  
-- 🛠️ Tools: Git, GitHub, VS Code  
+⚙️ Tech Stack
+
+- 💻 Languages: C++, Python, JavaScript
+- 🌐 Web: HTML, CSS, JavaScript
+- 🗄️ Database: MySQL
+- 🤖 AI/ML: Machine Learning, Deep Learning
+- 📊 Data: Data Analytics, Feature Engineering
+- 🛠️ Tools: Git, GitHub, VS Code
 
 ---
 
-## 📊 GitHub Stats
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarjahangir&show_icons=true&theme=tokyonight)
+📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarjahangir&show_icons=true&theme=tokyonight" />
+</p>---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ammarjahangir&theme=tokyonight&hide_border=true)
+🔥 Streak Stats
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ammarjahangir&theme=tokyonight&hide_border=true" />
+</p>---
 
-## 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarjahangir&layout=compact&theme=tokyonight)
+📌 Top Languages
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarjahangir&layout=compact&theme=tokyonight" />
+</p>---
 
-## 🚀 Projects
+🚀 Projects
+
 - 🏥 Hospital Management System (C++)
 - 📊 Student Management System
 - 🤖 Machine Learning Projects (Coming Soon)
@@ -48,10 +54,11 @@
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: ammarmalik5535@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ammar-cs  
+📫 Connect with Me
+
+- 📧 Email: ammarmalik5535@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/ammar-cs
 
 ---
 
-⭐️ From [AmmarJahangir](https://github.com/ammarjahangir)
+⭐️ From "AmmarJahangir" (https://github.com/ammarcs23)
