@@ -72,7 +72,7 @@ I'm a Computer Science undergraduate passionate about building real-world softwa
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏥 Hospital Management System | Full hospital records & management | C++ |
+| 🏥 Hospital Management System | Full Student records & management | C++ |
 | 📊 Student Management System | Student data & grade tracking | C++, SQL |
 | 🤖 ML Projects | Machine Learning experiments | Python *(Coming Soon)* |
 | 🌐 Web Projects | Frontend & full-stack apps | HTML, CSS, JS |
