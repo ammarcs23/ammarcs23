@@ -2,7 +2,7 @@
 
 ## 🎓 BS Computer Science Student | AI & Web Dev Enthusiast
 
-I'm a Computer Science undergraduate passionate about building real-world software solutions — from systems programming to machine learning. Always learning, always building.
+I'm a Computer Science undergraduate with a strong passion for developing real-world software solutions, ranging from low-level systems programming to modern machine learning applications. I enjoy continuously learning new technologies and turning ideas into practical, impactful projects.
 
 - 🌍 Based in **Pakistan**
 - ✉️ Contact me at [ammarmalik5535@gmail.com](mailto:ammarmalik5535@gmail.com)
