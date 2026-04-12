@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ammar Jahangir</h1>
 
-## 🎓 BS Computer Science Student | AI & Web Dev Enthusiast
+## 🎓 BS Computer Science Student | AI/ML/DL & Web Dev Enthusiast
 
 I'm a Computer Science undergraduate with a strong passion for developing real-world software solutions, ranging from low-level systems programming to modern machine learning applications. I enjoy continuously learning new technologies and turning ideas into practical, impactful projects.
 
