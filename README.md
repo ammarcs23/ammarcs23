@@ -72,11 +72,13 @@ I'm a Computer Science undergraduate passionate about building real-world softwa
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏥 Hospital Management System | Full Student records & management | C++ |
-| 📊 Student Management System | Student data & grade tracking | C++, SQL |
-| 🤖 ML Projects | Machine Learning experiments | Python *(Coming Soon)* |
-| 🌐 Web Projects | Frontend & full-stack apps | HTML, CSS, JS,React |
-
+| 🧑‍🎓 Student Management System | Full student records, grades & data management system | C++ |
+| 📊 Numerical ML Projects | House price prediction, regression models, and flower classification | Python |
+| 🐾 Animal Image Classification (DL) | Deep learning model trained on 10 animal classes | Python, TensorFlow/Keras |
+| 🌐 AI-Based Hospital Management System | Full-stack web app with AI integration for smart features | React, Node.js, Express, SQL, AI API |
+| 🧾 CRUD Application | Basic CRUD operations system | PHP, MySQL |
+| ⚙️ Assembly Language Projects | Searching techniques implementation + Cache simulator | Assembly Language |
+| 🖥️ Operating System Project | Process scheduling simulator (FCFS, SJF, RR, etc.) | Python / OS Concepts |
 ---
 
 <p align="center">⭐️ From <a href="https://github.com/ammarcs23">AmmarJahangir</a></p>
