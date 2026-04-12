@@ -39,7 +39,9 @@ I'm a Computer Science undergraduate with a strong passion for developing real-w
 <p align="left">
 <a href="https://github.com/ammarcs23" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/ammar-cs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-<a href="mailto:ammarmalik5535@gmail.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail"/></a>
+<a href="mailto:ammarmalik5535@gmail.com">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail"/>
+</a>
 </p>
 
 ---
