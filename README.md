@@ -78,7 +78,7 @@ I'm a Computer Science undergraduate with a strong passion for developing real-w
 | 📊 Numerical ML Projects | House price prediction, regression models, and flower classification | Python |
 | 🐾 Animal Image Classification (DL) | Deep learning model trained on 10 animal classes | Python, TensorFlow/Keras |
 | 🌐 AI-Based Hospital Management System | Full-stack web app with AI integration for smart features | React, Node.js, Express, SQL, AI API |
-| 🧾 CRUD Application | Basic CRUD operations system | PHP, MySQL |
+| 🧾 CRUD Application | Basic CRUD operations system | HTML, CSS, PHP, MySQL |
 | ⚙️ Assembly Language Projects | Searching techniques implementation + Cache simulator | Assembly Language |
 | 🖥️ Operating System Project | Process scheduling simulator (FCFS, SJF, RR, etc.) | Python / OS Concepts |
 ---
