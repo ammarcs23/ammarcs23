@@ -49,7 +49,7 @@ I'm a Computer Science undergraduate with a strong passion for developing real-w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
