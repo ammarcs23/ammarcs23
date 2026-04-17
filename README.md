@@ -1,86 +1,189 @@
-<h1 align="center">Hi 👋 I'm Ammar Jahangir</h1>
+<!-- Ammar Jahangir - GitHub Profile README -->
 
-## 🎓 BS Computer Science Student | AI/ML/DL & Web Dev Enthusiast
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Jahangir;BSCS+Student+%7C+AI+%2F+ML+Enthusiast;C%2B%2B+%7C+Web+Developer;Building+Real+World+Projects" />
+</div>
 
-I'm a Computer Science undergraduate with a strong passion for developing real-world software solutions, ranging from low-level systems programming to modern machine learning applications. I enjoy continuously learning new technologies and turning ideas into practical, impactful projects.
+<br/>
 
-- 🌍 Based in **Pakistan**
-- ✉️ Contact me at [ammarmalik5535@gmail.com](mailto:ammarmalik5535@gmail.com)
-- 🧠 Currently learning **Advanced C++, Machine Learning & Data Science**
-- 👥 Looking to collaborate on **AI & Web Projects**
-- 💬 Ask me about: **C++, OOP, SQL & System Design**
-- 🤫 Fun fact: I debug code at 3AM and somehow it works!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ammarcs23&color=2F80ED&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/ammarcs23?style=flat-square&color=2F80ED"/>
+</div>
 
----
+<br/>
 
-### 🛠️ Skills
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.icons8.com/fluency/48/user-male-circle.png"/>
+        <br/>
+        <b>🎓 BSCS Student</b>
+        <br/>
+        <span>Computer Science</span>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
+        <br/>
+        <b>🤖 AI / ML Enthusiast</b>
+        <br/>
+        <span>Machine Learning & DL</span>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.icons8.com/fluency/48/code.png"/>
+        <br/>
+        <b>💻 Developer</b>
+        <br/>
+        <span>C++ | Web Dev</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="36" height="36"/></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="36" height="36"/></a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="36" height="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36"/></a>
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-<a href="https://github.com/ammarcs23" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/ammar-cs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-<a href="mailto:ammarmalik5535@gmail.com">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<br/>
 
 ---
 
-### 🔥 Streak Stats
+## 🚀 Professional Profile
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <p>
+    I'm a Computer Science student passionate about building real-world applications 
+    ranging from low-level systems programming to modern AI solutions.
+    I enjoy solving problems, learning new technologies, and turning ideas into working systems.
+  </p>
+</div>
 
----
+<br/>
 
-### 📌 Top Languages
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcs23&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+        <b>C++</b><br/>
+        <span>OOP & System Design</span>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+        <b>Python</b><br/>
+        <span>ML & Data Science</span>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+        <b>React</b><br/>
+        <span>Frontend Apps</span>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+        <b>Node.js</b><br/>
+        <span>Backend APIs</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br/>
 
-### 🚀 Projects
+## 🛠️ Technical Stack
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧑‍🎓 Student Management System | Full student records, grades & data management system | C++ |
-| 📊 Numerical ML Projects | House price prediction, regression models, and flower classification | Python |
-| 🐾 Animal Image Classification (DL) | Deep learning model trained on 10 animal classes | Python, TensorFlow/Keras |
-| 🌐 AI-Based Hospital Management System | Full-stack web app with AI integration for smart features | React, Node.js, Express, SQL, AI API |
-| 🧾 CRUD Application | Basic CRUD operations system | HTML, CSS, PHP, MySQL |
-| ⚙️ Assembly Language Projects | Searching techniques implementation + Cache simulator | Assembly Language |
-| 🖥️ Operating System Project | Process scheduling simulator (FCFS, SJF, RR, etc.) | Python / OS Concepts |
----
+<div align="center">
 
-<p align="center">⭐️ From <a href="https://github.com/ammarcs23">AmmarJahangir</a></p>
+### Languages & Technologies
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=default&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=default&hide_border=true" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcs23&layout=compact&hide_border=true" width="45%" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Process Scheduling Simulator</h3>
+        <p>Simulation of CPU scheduling algorithms (FCFS, SJF, RR).</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>AI Animal Classifier</h3>
+        <p>Deep learning model for multi-class animal image classification.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ammarcs23">
+          <img src="https://img.icons8.com/fluency/48/github.png"/><br/>
+          <b>GitHub</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:ammarmalik5535@gmail.com">
+          <img src="https://img.icons8.com/fluency/48/email.png"/><br/>
+          <b>Email</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/ammar-cs">
+          <img src="https://img.icons8.com/fluency/48/linkedin.png"/><br/>
+          <b>LinkedIn</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<p align="center">⭐️ From <a href="https://github.com/ammarcs23">Ammar Jahangir</a></p>
