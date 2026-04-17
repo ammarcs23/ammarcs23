@@ -131,28 +131,20 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>Process Scheduling Simulator</h3>
-        <p>Simulation of CPU scheduling algorithms (FCFS, SJF, RR).</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <h3>AI Animal Classifier</h3>
-        <p>Deep learning model for multi-class animal image classification.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧑‍🎓 Student Management System | Full student records, grades & data management system | C++ |
+| 📊 Numerical ML Projects | House price prediction, regression models, and flower classification | Python |
+| 🐾 Animal Image Classification (DL) | Deep learning model trained on 10 animal classes | Python, TensorFlow/Keras |
+| 🌐 AI-Based Hospital Management System | Full-stack web app with AI integration for smart features | React, Node.js, Express, SQL, AI API |
+| 🧾 CRUD Application | Basic CRUD operations system | HTML, CSS, PHP, MySQL |
+| ⚙️ Assembly Language Projects | Searching techniques implementation + Cache simulator | Assembly Language |
+| 🖥️ Operating System Project | Process scheduling simulator (FCFS, SJF, RR, etc.) | Python / OS Concepts |
+
 </div>
 
 <br/>
