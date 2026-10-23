@@ -1,7 +1,7 @@
 <!-- Ammar Jahangir - GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Jahangir;BSCS+Student+%7C+AI+%2F+ML+Enthusiast;C%2B%2B+%7C+Web+Developer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Jahangir;BSCS+Student+%7C+AI+%2F+ML+%2F+DL+Enthusiast;C%2B%2B+%7C+Web+Developer;Building+Real+World+Projects" />
 </div>
 
 <br/>
