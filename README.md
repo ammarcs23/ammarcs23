@@ -1,14 +1,18 @@
 <!-- Ammar Jahangir - GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Jahangir;BSCS+Student+%7C+AI+%2F+ML+%2F+DL+Enthusiast;C%2B%2B+%7C+Web+Developer;Building+Real+World+Projects" />
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F80ED,100:56CCF2&height=220&section=header&text=Ammar%20Jahangir&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Software%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammarcs23&color=2F80ED&style=flat-square&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/ammarcs23?style=flat-square&color=2F80ED"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=56CCF2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Jahangir;BSCS+Student+%7C+AI+%2F+ML+%2F+DL+Enthusiast;Training+Neural+Networks+%F0%9F%A7%A0;C%2B%2B+%7C+Python+%7C+Full-Stack+Developer;Building+Real+World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ammarcs23&color=2F80ED&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ammarcs23?style=for-the-badge&color=2F80ED&logo=github"/>
+<img src="https://img.shields.io/github/stars/ammarcs23?style=for-the-badge&color=2F80ED&logo=github"/>
+<img src="https://img.shields.io/github/repos/ammarcs23?style=for-the-badge&color=2F80ED"/>
+
 </div>
 
 <br/>
@@ -16,26 +20,25 @@
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/fluency/48/user-male-circle.png"/>
-        <br/>
-        <b>🎓 BSCS Student</b>
-        <br/>
-        <span>Computer Science</span>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/fluency/64/graduation-cap.png"/>
+        <br/><b>🎓 BSCS Student</b><br/>
+        <sub>Computer Science</sub>
       </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
-        <br/>
-        <b>🤖 AI / ML Enthusiast</b>
-        <br/>
-        <span>Machine Learning & DL</span>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png"/>
+        <br/><b>🤖 AI / ML</b><br/>
+        <sub>Machine Learning</sub>
       </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/fluency/48/code.png"/>
-        <br/>
-        <b>💻 Developer</b>
-        <br/>
-        <span>C++ | Web Dev</span>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/fluency/64/mind-map.png"/>
+        <br/><b>🧠 Deep Learning</b><br/>
+        <sub>Neural Networks & CV</sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/fluency/64/code.png"/>
+        <br/><b>💻 Developer</b><br/>
+        <sub>C++ | Full-Stack</sub>
       </td>
     </tr>
   </table>
@@ -45,14 +48,71 @@
 
 ---
 
-## 🚀 Professional Profile
+## 🚀 About Me
 
 <div align="center">
   <p>
-    I'm a Computer Science student passionate about building real-world applications 
-    ranging from low-level systems programming to modern AI solutions.
-    I enjoy solving problems, learning new technologies, and turning ideas into working systems.
+    I'm a Computer Science student passionate about building real-world applications,
+    from low-level systems programming to modern AI solutions.<br/>
+    I love solving problems, learning new technologies, and turning ideas into working systems.
   </p>
+</div>
+
+```python
+class AmmarJahangir:
+    def __init__(self):
+        self.role      = "BSCS Student"
+        self.focus     = ["Machine Learning", "Deep Learning", "Computer Vision"]
+        self.languages = ["C++", "Python", "JavaScript", "C#"]
+        self.building  = "Real-world projects that solve real problems"
+
+    def motto(self):
+        return "Learn. Build. Improve. Repeat. 🔁"
+```
+
+<br/>
+
+## 🧠 Deep Learning Focus
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,numpy,pandas,sklearn&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/48/neural-network.png"/><br/>
+        <b>Neural Networks</b><br/>
+        <sub>CNNs, training & evaluation</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/48/camera.png"/><br/>
+        <b>Computer Vision</b><br/>
+        <sub>Image classification</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/48/combo-chart.png"/><br/>
+        <b>Machine Learning</b><br/>
+        <sub>Regression & classification</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -62,25 +122,30 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
         <b>C++</b><br/>
-        <span>OOP & System Design</span>
+        <sub>OOP & System Design</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
         <b>Python</b><br/>
-        <span>ML & Data Science</span>
+        <sub>ML, DL & Data Science</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>
+        <b>Deep Learning</b><br/>
+        <sub>TensorFlow / Keras</sub>
+      </td>
+      <td align="center" width="20%">
         <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
         <b>React</b><br/>
-        <span>Frontend Apps</span>
+        <sub>Frontend Apps</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
         <b>Node.js</b><br/>
-        <span>Backend APIs</span>
+        <sub>Backend APIs</sub>
       </td>
     </tr>
   </table>
@@ -88,29 +153,25 @@
 
 <br/>
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Technologies
+### 💬 Languages
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,html,css,php&theme=dark" />
 
-### Tools
+### 🌐 Web & Databases
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mysql&theme=dark" />
+
+### 🧠 AI / Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,sklearn&theme=dark" />
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
 
 </div>
 
@@ -119,31 +180,49 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=default&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=default&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarcs23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ammarcs23&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcs23&layout=compact&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcs23&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
 </div>
 
 <br/>
 
-## 🚀 Projects
+## 📂 Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧑‍🎓 Student Management System | Full student records, grades & data management system | C++ |
-| 📊 Numerical ML Projects | House price prediction, regression models, and flower classification | Python |
-| 🐾 Animal Image Classification (DL) | Deep learning model trained on 10 animal classes | Python, TensorFlow/Keras |
-| 🌐 AI-Based Hospital Management System | Full-stack web app with AI integration for smart features | React, Node.js, Express, SQL, AI API |
-| 🧾 CRUD Application | Basic CRUD operations system | HTML, CSS, PHP, MySQL |
-| ⚙️ Assembly Language Projects | Searching techniques implementation + Cache simulator | Assembly Language |
-| 🖥️ Operating System Project | Process scheduling simulator (FCFS, SJF, RR, etc.) | Python / OS Concepts |
+| 🐾 **Animal Image Classification (DL)** | Deep learning model trained on 10 animal classes | `Python` `TensorFlow` `Keras` |
+| 🌐 **AI-Based Hospital Management System** | Full-stack web app with AI integration for smart features | `React` `Node.js` `Express` `SQL` `AI API` |
+| 📊 **Numerical ML Projects** | House price prediction, regression models, and flower classification | `Python` `scikit-learn` |
+| 🧑‍🎓 **Student Management System** | Full student records, grades & data management system | `C++` |
+| 🧾 **CRUD Application** | Basic CRUD operations system | `HTML` `CSS` `PHP` `MySQL` |
+| ⚙️ **Assembly Language Projects** | Searching techniques implementation + Cache simulator | `Assembly` |
+| 🖥️ **Operating System Project** | Process scheduling simulator (FCFS, SJF, RR, etc.) | `Python` `OS Concepts` |
+
+</div>
+
+<br/>
+
+## 🗺️ Learning Roadmap
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[C++ & DSA] --> B[Python & ML]
+    B --> C[Deep Learning]
+    C --> D[Computer Vision]
+    D --> E[Real-World AI Projects]
+    style C fill:#2F80ED,stroke:#fff,color:#fff
+    style E fill:#56CCF2,stroke:#fff,color:#000
+```
 
 </div>
 
@@ -152,30 +231,15 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ammarcs23">
-          <img src="https://img.icons8.com/fluency/48/github.png"/><br/>
-          <b>GitHub</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:ammarmalik5535@gmail.com">
-          <img src="https://img.icons8.com/fluency/48/email.png"/><br/>
-          <b>Email</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/ammar-cs">
-          <img src="https://img.icons8.com/fluency/48/linkedin.png"/><br/>
-          <b>LinkedIn</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://github.com/ammarcs23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ammar-cs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ammarmalik5535@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,50:2F80ED,100:0F2027&height=120&section=footer" width="100%"/>
+
+⭐️ From <a href="https://github.com/ammarcs23">Ammar Jahangir</a>
+
 </div>
-
-<br/>
-
-<p align="center">⭐️ From <a href="https://github.com/ammarcs23">Ammar Jahangir</a></p>
